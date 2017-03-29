@@ -1,0 +1,394 @@
+[
+  {
+    "year": 1959,
+    "artist": "Frank Sinatra",
+    "perfomer": "Frank Sinatra",
+    "album": "Frank Sinatra Sings for Only the Lonely",
+    "average_color": "#232222"
+  },
+  {
+    "year": 1961,
+    "artist": "Marvin Schwartz",
+    "perfomer": "Peggy Lee",
+    "album": "Latin ala Lee!",
+    "average_color": "#A69890"
+  },
+  {
+    "year": 1962,
+    "artist": "Jim Silke",
+    "perfomer": "Judy Garland",
+    "album": "Judy at Carnegie Hall",
+    "average_color": "#B35B49"
+  },
+  {
+    "year": 1963,
+    "artist": "Robert M. Jones",
+    "perfomer": "Lena Horne",
+    "album": "Lena... Lovely and Alive",
+    "average_color": "#A74B4C"
+  },
+  {
+    "year": 1964,
+    "artist": "John Berg",
+    "perfomer": "Barbra Streisand",
+    "album": "The Barbra Streisand Album",
+    "average_color": "#413926"
+  },
+  {
+    "year": 1965,
+    "artist": "Robert Cato and Don Bronstein",
+    "perfomer": "Barbra Streisand",
+    "album": "People",
+    "average_color": "#D2A38B"
+  },
+  {
+    "year": 1966,
+    "artist": "Robert M. Jones and Ken Whitmore",
+    "perfomer": "Paul Horn",
+    "album": "Jazz Suite on the Mass Texts",
+    "average_color": "#363127"
+  },
+  {
+    "year": 1967,
+    "artist": "Robert M. Jones and Les Leverette",
+    "perfomer": "Porter Wagoner",
+    "album": "Confessions of a Broken Man",
+    "average_color": "#667966"
+  },
+  {
+    "year": 1968,
+    "artist": "Peter Blake and Jann Haworth",
+    "perfomer": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "average_color": "#53443A"
+  },
+  {
+    "year": 1969,
+    "artist": "John Berg, Richard Mantel, and Horn/Griner Studio",
+    "perfomer": "Thelonious Monk",
+    "album": "Underground",
+    "average_color": "#725A4E"
+  },
+  {
+    "year": 1970,
+    "artist": "Evelyn J. Kelbish and David Stahlberg",
+    "perfomer": "Gary McFarland",
+    "album": "America the Beautiful",
+    "average_color": "#886E52"
+  },
+  {
+    "year": 1971,
+    "artist": "Robert Lockhart and Ivan Nagy",
+    "perfomer": "B. B. King",
+    "album": "Indianola Mississippi Seeds",
+    "average_color": "#BFAFAB"
+  },
+  {
+    "year": 1973,
+    "artist": "Acy Lehman and Harvey Dinnerstein",
+    "perfomer": "Siegel-Schwall Band",
+    "album": "The Siegel-Schwall Band",
+    "average_color": "#E3E3E2"
+  },
+  {
+    "year": 1975,
+    "artist": "Ed Thrasher and Christopher Whorf",
+    "perfomer": "Mason Proffit",
+    "album": "Come & Gone",
+    "average_color": "#88594F"
+  },
+  {
+    "year": 1976,
+    "artist": "Jim Ladwig",
+    "perfomer": "Ohio Players",
+    "album": "Honey",
+    "average_color": "#511F0B"
+  },
+  {
+    "year": 1977,
+    "artist": "John Berg",
+    "perfomer": "Chicago",
+    "album": "Chicago X",
+    "average_color": "#6E5440"
+  },
+  {
+    "year": 1978,
+    "artist": "John Berg",
+    "perfomer": "Ramsey Lewis",
+    "album": "Love Notes",
+    "average_color": "#5B4A3B"
+  },
+  {
+    "year": 1979,
+    "artist": "Johnny Lee and Tony Lane",
+    "perfomer": "Carly Simon",
+    "album": "Boys in the Trees",
+    "average_color": "#835A47"
+  },
+  {
+    "year": 1980,
+    "artist": "Mike Doud and Mick Haggerty",
+    "perfomer": "Supertramp",
+    "album": "Breakfast in America",
+    "average_color": "#7F7B80"
+  },
+  {
+    "year": 1981,
+    "artist": "Roy Kohara",
+    "perfomer": "Bob Seger & The Silver Bullet Band",
+    "album": "Against the Wind",
+    "average_color": "#98A3A7"
+  },
+  {
+    "year": 1982,
+    "artist": "Peter Corriston",
+    "perfomer": "The Rolling Stones",
+    "album": "Tattoo You",
+    "average_color": "#883D49"
+  },
+  {
+    "year": 1983,
+    "artist": "Kosh and Ron Larson",
+    "perfomer": "Linda Ronstadt",
+    "album": "Get Closer",
+    "average_color": "#D1A69F"
+  },
+  {
+    "year": 1984,
+    "artist": "Robert Rauschenberg",
+    "perfomer": "Talking Heads",
+    "album": "Speaking in Tongues",
+    "average_color": "#A88D73"
+  },
+  {
+    "year": 1985,
+    "artist": "Janet Perr",
+    "perfomer": "Cyndi Lauper",
+    "album": "She's So Unusual",
+    "average_color": "#675363"
+  },
+  {
+    "year": 1986,
+    "artist": "Kosh and Ron Larson",
+    "perfomer": "Linda Ronstadt",
+    "album": "Lush Life",
+    "average_color": "#C27C90"
+  },
+  {
+    "year": 1987,
+    "artist": "Eiko Ishioka",
+    "perfomer": "Miles Davis",
+    "album": "Tutu",
+    "average_color": "#5F4A51"
+  },
+  {
+    "year": 1988,
+    "artist": "Bill Johnson",
+    "perfomer": "Rosanne Cash",
+    "album": "King's Record Shop",
+    "average_color": "#937B66"
+  },
+  {
+    "year": 1989,
+    "artist": "Bill Johnson",
+    "perfomer": "The O'Kanes",
+    "album": "Tired of the Runnin",
+    "average_color": "#7DADC6"
+  },
+  {
+    "year": 1990,
+    "artist": "Roger Gorman",
+    "perfomer": "David Bowie",
+    "album": "Sound + Vision",
+    "average_color": "#6F5B5E"
+  },
+  {
+    "year": 1991,
+    "artist": "Len Peltier, Jeffrey Gold, and Suzanne Vega",
+    "perfomer": "Suzanne Vega",
+    "album": "Days of Open Hand",
+    "average_color": "#443E40"
+  },
+  {
+    "year": 1992,
+    "artist": "Vartan",
+    "perfomer": "Billie Holiday",
+    "album": "The Complete Decca Recordings",
+    "average_color": "#4F3F74"
+  },
+  {
+    "year": 1993,
+    "artist": "Melanie Nissen",
+    "perfomer": "Paula Abdul",
+    "album": "Spellbound",
+    "average_color": "#463B30"
+  },
+  {
+    "year": 1994,
+    "artist": "David Lau",
+    "perfomer": "Billie Holiday",
+    "album": "The Complete Billie Holiday on Verve 1945–1959",
+    "average_color": "#3A373B"
+  },
+  {
+    "year": 1995,
+    "artist": "Buddy Jackson",
+    "perfomer": "Asleep at the Wheel",
+    "album": "Tribute to the Music of Bob Willis and the Texas Playboys",
+    "average_color": "#DAD2D4"
+  },
+  {
+    "year": 1996,
+    "artist": "Robbie Cavolina and Joni Mitchell",
+    "perfomer": "Joni Mitchell",
+    "album": "Turbulent Indigo",
+    "average_color": "#4C2E27"
+  },
+  {
+    "year": 1997,
+    "artist": "Andy Engel and Tommy Steele",
+    "perfomer": "Various Artists",
+    "album": "Ultra-Lounge (Leopard Skin Sampler)",
+    "average_color": "#888169"
+  },
+  {
+    "year": 1998,
+    "artist": "Hugh Brown, Al Q, and Jeff Smith",
+    "perfomer": "Various Artists",
+    "album": "Titanic: Music As Heard on the Fateful Voyage",
+    "average_color": "#6E4B49"
+  },
+  {
+    "year": 1999,
+    "artist": "Kevin Reagan",
+    "perfomer": "Madonna",
+    "album": "Ray of Light",
+    "average_color": "#60766E"
+  },
+  {
+    "year": 2000,
+    "artist": "Ray Benson, Sally Carns, and Buddy Jackson",
+    "perfomer": "Asleep at the Wheel",
+    "album": "Ride With Bob",
+    "average_color": "#964F38"
+  },
+  {
+    "year": 2001,
+    "artist": "Kevin Reagan",
+    "perfomer": "Madonna",
+    "album": "Music",
+    "average_color": "#3E4353"
+  },
+  {
+    "year": 2002,
+    "artist": "Stanley Donwood and Tchocky",
+    "perfomer": "Radiohead",
+    "album": "Amnesiac (Special Limited Edition)",
+    "average_color": "#823435"
+  },
+  {
+    "year": 2003,
+    "artist": "Kevin Reagan",
+    "perfomer": "Dixie Chicks",
+    "album": "Home",
+    "average_color": "#786553"
+  },
+  {
+    "year": 2004,
+    "artist": "Ani DiFranco and Brian Grunert",
+    "perfomer": "Ani DiFranco",
+    "album": "Evolve",
+    "average_color": "#6390A6"
+  },
+  {
+    "year": 2005,
+    "artist": "Peter Buchanan-Smith and Dan Nadel",
+    "perfomer": "Wilco",
+    "album": "A Ghost Is Born",
+    "average_color": "#DDDEE4"
+  },
+  {
+    "year": 2006,
+    "artist": "Aimee Mann and Gail Marowitz",
+    "perfomer": "Aimee Mann",
+    "album": "The Forgotten Arm",
+    "average_color": "#744D30"
+  },
+  {
+    "year": 2007,
+    "artist": "Adam Jones",
+    "perfomer": "Tool",
+    "album": "10,000 Days",
+    "average_color": "#2A2E33"
+  },
+  {
+    "year": 2008,
+    "artist": "Zachary Nipper",
+    "perfomer": "Bright Eyes",
+    "album": "Cassadaga",
+    "average_color": "#ACA8A0"
+  },
+  {
+    "year": 2009,
+    "artist": "Metallica",
+    "perfomer": "Metallica",
+    "album": "Death Magnetic",
+    "average_color": "#A6A29F"
+  },
+  {
+    "year": 2010,
+    "artist": "Stefan Sagmeister",
+    "perfomer": "David Byrne & Brian Eno",
+    "album": "Everything That Happens Will Happen Today",
+    "average_color": "#5D5B40"
+  },
+  {
+    "year": 2011,
+    "artist": "Michael Carney",
+    "perfomer": "The Black Keys",
+    "album": "Brothers",
+    "average_color": "#706568"
+  },
+  {
+    "year": 2012,
+    "artist": "Caroline Robert",
+    "perfomer": "Arcade Fire",
+    "album": "The Suburbs (Deluxe)",
+    "average_color": "#782520"
+  },
+  {
+    "year": 2013,
+    "artist": "Michael Amzalag & Mathias Augustyniak",
+    "perfomer": "Björk",
+    "album": "Biophilia",
+    "average_color": "#44251E"
+  },
+  {
+    "year": 2014,
+    "artist": "Sarah Dodds and Shauna Dodds",
+    "perfomer": "Reckless Kelly",
+    "album": "Long Night Moon",
+    "average_color": "#352C23"
+  },
+  {
+    "year": 2015,
+    "artist": "Jeff Ament, Don Pendleton, Joe Spix, and Jerome Turner",
+    "perfomer": "Pearl Jam",
+    "album": "Lightning Bolt",
+    "average_color": "#9E8181"
+  },
+  {
+    "year": 2016,
+    "artist": "Sarah Dodds, Shauna Dodds & Dick Reeves",
+    "perfomer": "Asleep at the Wheel",
+    "album": "Still the King: Celebrating the Music of Bob Wills and His Texas Playboys",
+    "average_color": "#C0A876"
+  },
+  {
+    "year": 2017,
+    "artist": "Jonathan Barnbrook",
+    "perfomer": "David Bowie",
+    "album": "Blackstar",
+    "average_color": "#D4D4D4"
+  }
+]
