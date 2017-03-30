@@ -15,10 +15,7 @@ def list_rows():
     our_data = get_data()
     return render_template('grammy_1.html', data=our_data)
 
-@app.route('/sort_colors')
-def list_rows():
-    our_data = get_data()
-    return render_template('grammy_2.html', data=our_data)
+
 
 if __name__ == '__main__':
     app.run()
